@@ -31,11 +31,21 @@ Harran Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisi olarak; alg
 
 ---
 
+## 🚀 Öne Çıkan Projelerim (Tıklayıp Doğrudan İnceleyebilirsiniz)
+
+| Sıra | Proje | Alanı & Açıklama | Teknolojiler | Doğrudan Bağlantı |
+| :---: | :--- | :--- | :--- | :---: |
+| **01** | 🌾 **Akıllı Tarım Sesli Asistanı** | Google Gemini AI ile çiftçilere sesli ziraat danışmanlığı, canlı hava durumu ve tarla kayıt sistemi | Python, FastAPI, Gemini AI, gTTS, STT, SQLite | [👉 Projeye Git](https://github.com/muhammedtaslakemin-byte/akilli-tarim-sesli-asistan) |
+| **02** | 🏭 **Endüstriyel Kamera Kalite Denetimi** | Trafo ve jeneratör izleme kameralarında ark/titreşim tespiti ve resmi ISO PDF raporlama motoru | Python, FastAPI, React, OpenCV, ReportLab | [👉 Projeye Git](https://github.com/muhammedtaslakemin-byte/endustriyel-kamera-kalite-kontrol) |
+| **03** | ☕ **Dijital Kafe QR Menü & Sipariş** | Kafe ve restoranlar için hafif, mobil uyumlu ve temassız QR menü arayüzü | HTML5, CSS3, JavaScript (ES6+) | [👉 Projeye Git](https://github.com/muhammedtaslakemin-byte/dijital-kafe-qr-menu) |
+
+---
+
 ## 🚀 Öne Çıkan Mühendislik Projeleri (Key Engineering Projects)
 
 ### 🌟 1. Endüstriyel Kamera Görüntü Kalite Değerlendirme ve Raporlama Sistemi
 **Harran Üniversitesi & MRT Güç Sistemleri Staj Projesi** | *Python, FastAPI, React, Tailwind CSS, OpenCV, SQLite, ReportLab*  
-🔗 **Repo:** [github.com/muhammedtaslakemin-byte/staj_proje](https://github.com/muhammedtaslakemin-byte/staj_proje)
+🔗 **Repo:** [github.com/muhammedtaslakemin-byte/endustriyel-kamera-kalite-kontrol](https://github.com/muhammedtaslakemin-byte/endustriyel-kamera-kalite-kontrol)
 
 * **Sistem Mimarisi:** Trafo merkezleri, dağıtım panoları ve jeneratör odalarındaki izleme kameralarından gelen canlı/kayıt görüntüleri analiz eden yapay zeka destekli kalite kontrol platformu mimarileştirildi.
 * **Metrik & Anomali Analiz Motoru:** OpenCV ve NumPy kullanılarak kameralardaki bulanıklık/keskinlik (Laplacian varyansı), sensör gürültüsü (SNR/Gaussian analizi), aşırı/yetersiz parlaklık, **ark parlamaları (arc fault flash)** ve **mekanik titreşim (optical flow / frame difference)** anomalilerini milisaniyeler seviyesinde saptayan modüler bir metrik motoru kodlandı.
